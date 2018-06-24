@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Persons.xsd"?>
+<?xml-stylesheet type="text/xsl" href="Persons.xsl"?>
+<Persons>
+
+<Person>
+  <Name>
+  	<First>Name1</First>
+  	<Last>Surname1</Last>
+  </Name>
+  <Credential>
+  	<Id>n1</Id>
+  	<Password Encryption="yes">name1surname1</Password>
+  </Credential>
+  <Phone>
+  	<Work>90106931</Work>
+  	<Cell Provider="Tmobile">9573381</Cell>
+  </Phone>
+  <Category>Friend</Category>
+</Person>
+
+<Person>
+  <Name>
+  	<First>Name2</First>
+  	<Last>Surname2</Last>
+  </Name>
+  <Credential>
+  	<Id>n2</Id>
+  	<Password Encryption="yes">name2surname2</Password>
+  </Credential>
+  <Phone>
+  	<Work>90106932</Work>
+  	<Cell Provider="Lyca">9573382</Cell>
+  </Phone>
+  <Category>Friend</Category>
+</Person>
+
+<Person>
+  <Name>
+  	<First>Name3</First>
+  	<Last>Surname3</Last>
+  </Name>
+  <Credential>
+  	<Id>n3</Id>
+  	<Password Encryption="yes">name3surname3</Password>
+  </Credential>
+  <Phone>
+  	<Work>90106933</Work>
+  	<Cell Provider="Sprint">9573383</Cell>
+  </Phone>
+  <Category>Friend</Category>
+</Person>
+
+<Person>
+  <Name>
+  	<First>Name4</First>
+  	<Last>Surname4</Last>
+  </Name>
+  <Credential>
+  	<Id>n4</Id>
+  	<Password Encryption="yes">name4surname4</Password>
+  </Credential>
+  <Phone>
+  	<Work>90106934</Work>
+  	<Cell Provider="T Mobile">9573384</Cell>
+  </Phone>
+  <Category>Friend</Category>
+</Person>
+
+<Person>
+  <Name>
+  	<First>Name5</First>
+  	<Last>Surname5</Last>
+  </Name>
+  <Credential>
+  	<Id>n5</Id>
+  	<Password Encryption="yes">name5surname5</Password>
+  </Credential>
+  <Phone>
+  	<Work>90106935</Work>
+  	<Cell Provider="Verizon">9573385</Cell>
+  </Phone>
+  <Category>Friend</Category>
+</Person>
+
+</Persons>
