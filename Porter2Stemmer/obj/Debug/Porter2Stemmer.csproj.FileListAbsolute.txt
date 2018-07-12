@@ -1,0 +1,6 @@
+C:\Users\prana\Desktop\DSOD\Assignment 4\porter2-stemmer-master\Porter2Stemmer\bin\Debug\Porter2Stemmer.dll
+C:\Users\prana\Desktop\DSOD\Assignment 4\porter2-stemmer-master\Porter2Stemmer\bin\Debug\Porter2Stemmer.pdb
+C:\Users\prana\Desktop\DSOD\Assignment 4\porter2-stemmer-master\Porter2Stemmer\obj\Debug\Porter2Stemmer.csprojAssemblyReference.cache
+C:\Users\prana\Desktop\DSOD\Assignment 4\porter2-stemmer-master\Porter2Stemmer\obj\Debug\Porter2Stemmer.csproj.CoreCompileInputs.cache
+C:\Users\prana\Desktop\DSOD\Assignment 4\porter2-stemmer-master\Porter2Stemmer\obj\Debug\Porter2Stemmer.dll
+C:\Users\prana\Desktop\DSOD\Assignment 4\porter2-stemmer-master\Porter2Stemmer\obj\Debug\Porter2Stemmer.pdb

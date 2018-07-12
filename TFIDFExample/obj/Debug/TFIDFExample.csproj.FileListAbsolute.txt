@@ -1,0 +1,9 @@
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\obj\Debug\TFIDFExample.csprojAssemblyReference.cache
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\obj\Debug\TFIDFExample.csproj.CoreCompileInputs.cache
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\bin\Debug\TFIDFExample.exe.config
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\bin\Debug\TFIDFExample.exe
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\bin\Debug\TFIDFExample.pdb
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\bin\Debug\Centivus.EnglishStemmer.dll
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\obj\Debug\TFIDFExample.csproj.CopyComplete
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\obj\Debug\TFIDFExample.exe
+C:\Users\prana\Downloads\TFIDF-master\TFIDFExample\obj\Debug\TFIDFExample.pdb
